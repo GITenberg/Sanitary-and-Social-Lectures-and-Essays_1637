@@ -1,0 +1,33 @@
+_repo: Sanitary-and-Social-Lectures-and-Essays_1637
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Social problems'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: Woman's work in a country parish -- The science of health -- The
+  two breaths -- Thrift -- Nausicaa in London; or, the lower education of women --
+  The air-mothers -- The tree of knowledge -- Great cities and their influence for
+  good and evil -- Heroism -- The massacre of the innocents -- "A mad world, my masters."
+title: Sanitary and Social Lectures and Essays
+url: http://www.gutenberg.org/ebooks/1637
